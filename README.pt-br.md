@@ -7,7 +7,10 @@ Lista de iniciativas de robótica do Brasil!
 - [Awesome Robotics Brazil ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-robotics-brazil-)
   - [Empresas](#empresas)
   - [Institutos de Pesquisa e Desenvolvimento](#institutos-de-pesquisa-e-desenvolvimento)
-  - [Institutos de Pesquisa e Desenvolvimento](#institutos-de-pesquisa-e-desenvolvimento-1)
+  - [Laboratórios e Centros de Pesquisa](#laboratórios-e-centros-de-pesquisa)
+  - [Grupos de Robótica para competição](#grupos-de-robótica-para-competição)
+  - [Comunidades Online](#comunidades-online)
+  - [Programas de Ensino e Especialização](#programas-de-ensino-e-especialização)
 
 ## Empresas
 
