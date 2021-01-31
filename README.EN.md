@@ -1,5 +1,7 @@
 # Awesome Robotics Brazil [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
+![CI](https://github.com/mateus-amarante/awesome-robotics-brazil/workflows/CI/badge.svg)
+
 [:brazil: PT-BR](README.PT-BR.md)
 
 List of robotics initiatives in Brazil!
