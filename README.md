@@ -2,11 +2,9 @@
 
 ![CI](https://github.com/mateus-amarante/awesome-robotics-brazil/workflows/CI/badge.svg)
 
-[:us: EN](README.EN.md)
+[:uk: en](README.EN.md)
 
-Lista de iniciativas de robótica do Brasil!
-
-Sinta-se encorajado a [contribuir](CONTRIBUTING.md)!
+Lista de iniciativas de robótica do Brasil! Sinta-se encorajado a [contribuir](CONTRIBUTING.md)!
 
 ## Contents
 

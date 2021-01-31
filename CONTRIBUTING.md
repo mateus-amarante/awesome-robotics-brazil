@@ -1,4 +1,4 @@
-# Contribuindo [:brazil: pt-br]
+# Contribuindo :brazil:
 
 Qualquer contribuição é bem vinda! Sinta-se encorajado para adicionar novos items, propor seções novas, apontar erros e fazer melhorias. Apenas considere as seguintes instruções:
 
@@ -7,7 +7,7 @@ Qualquer contribuição é bem vinda! Sinta-se encorajado para adicionar novos i
 - Evite "Pull Requests" grandes
 - É preferível abrir uma "Issue" antes de submeter um PR, principalmente quando se tratar de uma atualização impactante.
 
-# Contributing [:us: en]
+# Contributing :uk:
 
 Any contribution is welcome! Feel encoraged to add new items, propose new sections, point errors and make improvements. Just consider the following guidelines:
 
