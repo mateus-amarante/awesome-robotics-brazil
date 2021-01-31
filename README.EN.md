@@ -2,7 +2,7 @@
 
 [:brazil: pt-br](README.PT-BR.md)
 
-List of robotics initiatives in Brazil! Feel encouraged to [contribute](CONTRIBUTING.md)!
+List of robotics initiatives in Brazil! Feel free to [contribute](CONTRIBUTING.md)!
 
 ## Contents
 

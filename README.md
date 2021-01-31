@@ -4,7 +4,7 @@
 
 [:uk: en](README.EN.md)
 
-Lista de iniciativas de robótica do Brasil! Sinta-se encorajado a [contribuir](CONTRIBUTING.md)!
+Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CONTRIBUTING.md)!
 
 ## Contents
 
