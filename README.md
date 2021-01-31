@@ -27,7 +27,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se encorajado a [contribuir](
 - [Hexagon Mining](https://hexagonmining.com/) - Desenvolvem soluções de robótica p/ a indústria de mineração (Belho Horizonte-MG).
 - [Human Robotics](https://www.humanrobotics.ai/) - Oferecem o ROBIOS, "um robô (físico) de autoatendimento, social e personalizável, que ajuda empresas a automatizar o atendimento presencial dos seus clientes" (Curitiba-PR).
 - [Instor](https://www.instor.com.br/) - Desenvolve soluções de robótica diversas p/ os setores de petróleo & gás, agricultura e saúde (Porto Alegre-RS).
-- [Lume Robotics](http://lumerobotics.ai/) - Oferecem sistema de mobilidade autônoma (Vitória-ES).
+- [Lume Robotics](http://lumerobotics.ai/) - Oferecem sistema robótico avançado composto por hardware e software que confere a um veículo a capacidade de trafegar de modo totalmente autônomo (Vitória-ES).
 - [NTU](https://ntu.ai/) - Desenvolve soluções de simulação em nuvem e aplicações robóticas para interação social, transporte autônomo indoor e automação de atividades de manufatura leve (São Paulo-SP).
 - [Pluginbot](https://pluginbot.ai/) - Oferecem soluções com robôs de atendimento, delivery, dentre outras aplicações de interação homem-robô (São Paulo-SP).
 - [Pollux](https://www.pollux.com.br/) - Desenvolve "soluções de manufatura avançada, robótica colaborativa, robótica móvel, sistemas de visão e internet industrial" (Joinville-SC / Americana-SP).
