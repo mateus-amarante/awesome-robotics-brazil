@@ -35,7 +35,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [Tidewise](https://www.tidewise.io/) - Desenvolve soluções para operações offshore com embarcação e aeronave não tripuladas (Rio de Janeiro-RJ).
 - [Umbô](https://www.umbo.net.br/) - Oferecem os robôs de interação humana Umbô e Dubô (São Paulo-SP).
 - [Unidroid](https://www.unidroid.com.br/) - Desenvolvem robôs de combate a incêndios (São José dos Campos-SP).
-- [Wiser Robotics](https://wiserrobotics.com.br/) - Oferecem robôs de serviço (ELLA) e de higienização de ambientes (FLORENCE) (São Paulo-SP).
+<!-- - [Wiser Robotics](https://wiserrobotics.com.br/) - Oferecem robôs de serviço (ELLA) e de higienização de ambientes (FLORENCE) (São Paulo-SP). -->
 
 ## Institutos de Pesquisa e Desenvolvimento
 
