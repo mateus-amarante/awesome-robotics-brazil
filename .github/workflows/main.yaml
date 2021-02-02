@@ -1,7 +1,5 @@
 name: CI
-on:
-  pull_request:
-    branches: [main]
+on: pull_request
 jobs:
   awesome-lint:
     runs-on: ubuntu-latest
@@ -11,7 +9,8 @@ jobs:
           fetch-depth: 0
       - name: Run awesome-lint on README files
         run: |
-          npx awesome-lint README.md
-          npx awesome-lint README.EN.md
+          npm install --global awesome-lint
+          awesome-lint README.md
+          awesome-lint README.EN.md
       - name: Compare N of items of the Portuguese and English README's
         run: test $(grep -Ec '^ *\- \[.+\]\(.+\)' README.md) -eq $(grep -Ec '^ *\- \[.+\]\(.+\)' README.EN.md)
