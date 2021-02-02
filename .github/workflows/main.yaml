@@ -9,5 +9,9 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - run: npx awesome-lint README.md
-      - run: npx awesome-lint README.EN.md
+      - name: Run awesome-lint on README files
+        run: |
+          npx awesome-lint README.md
+          npx awesome-lint README.EN.md
+      - name: Compare N of items of the Portuguese and English README's
+        run: test $(grep -Ec '^ *\- \[.+\]\(.+\)' README.md) -eq $(grep -Ec '^ *\- \[.+\]\(.+\)' README.EN.md)
