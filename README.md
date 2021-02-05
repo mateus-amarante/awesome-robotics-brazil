@@ -24,6 +24,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [Automni](https://automni.com.br/) - Solução de logística robotizada com o robô Rhino para controle de estoque, transporte e picking colaborativo (São Paulo-SP).
 - [Brisa](https://www.brisa.tech/) - Oferecem os WindroseOs Kits: "primeira ferramenta multifuncional para automatizar veículos e aumentar a produtividade dos processos existentes" (Recife-PE / Florianópolis-SC).
 - [Daedlaus Labs](https://www.daedalus-tech.com/) - Oferecem soluções diversas de robótica, visão computacional e aprendizado de máquina (Bauru-SP).
+- [dotBot Robotics](https://www.dotbot-robotics.com/) - Oferecem diversos robôs industriais como serviço e prestam serviço de projeto, simulação e fabricação para robótica. (Rio de Janeiro-RJ).
 - [Hexagon Mining](https://hexagonmining.com/) - Desenvolvem soluções de robótica p/ a indústria de mineração (Belho Horizonte-MG).
 - [Human Robotics](https://www.humanrobotics.ai/) - Oferecem o ROBIOS, "um robô (físico) de autoatendimento, social e personalizável, que ajuda empresas a automatizar o atendimento presencial dos seus clientes" (Curitiba-PR).
 - [Instor](https://www.instor.com.br/) - Desenvolve soluções de robótica diversas p/ os setores de petróleo & gás, agricultura e saúde (Porto Alegre-RS).
