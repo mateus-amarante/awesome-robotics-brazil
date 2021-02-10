@@ -1,6 +1,6 @@
 # Awesome Robotics Brazil [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![CI](https://github.com/mateus-amarante/awesome-robotics-brazil/workflows/CI/badge.svg)
+![awesome-lint](https://github.com/mateus-amarante/awesome-robotics-brazil/workflows/awesome-lint/badge.svg)
 
 [:uk: en](README.EN.md)
 
@@ -20,7 +20,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [13Robotics](http://www.13robotics.com/) - Desenvolvem projetos de P&D de robótica voltados ao setor de energia (Rio de Janeiro-RJ / Salvador-BA).
 - [Acta Robotics](http://actarobotics.com/) - Oferecem o Kappabot, "o primeiro robô móvel autônomo do tipo AMR com tecnologia brasileira produzido no Brasil" (Manaus-AM).
 - [Adroit Robotics](http://adroitrobotics.com/) - Oferecem solução de monitoramento da produtividade e saúde do pomar com o sensor LeafSense (São Paulo-SP).
-- [ARMTEC Tecnologia em Robótica](http://www.armtecbrasil.com/) - Desenvolvem projetos de P&D em robótica nas árueas de defesa e segurança pública, pavimentação, dentre outros (Fortaleza-CE).
+- [ARMTEC Tecnologia em Robótica](http://www.armtecbrasil.com/) - Desenvolvem projetos de P&D em robótica nas áreas de defesa e segurança pública, pavimentação, dentre outros (Fortaleza-CE).
 - [Automni](https://automni.com.br/) - Solução de logística robotizada com o robô Rhino para controle de estoque, transporte e picking colaborativo (São Paulo-SP).
 - [Brisa](https://www.brisa.tech/) - Oferecem os WindroseOs Kits: "primeira ferramenta multifuncional para automatizar veículos e aumentar a produtividade dos processos existentes" (Recife-PE / Florianópolis-SC).
 - [Daedlaus Labs](https://www.daedalus-tech.com/) - Oferecem soluções diversas de robótica, visão computacional e aprendizado de máquina (Bauru-SP).
@@ -42,7 +42,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 
 - [INESC P&D Brasil](http://inescbrasil.org.br/) - Desenvolve projetos nas áreas de tecnologias assistivas, serviços, veículos autônomos, inspeção, segurança e sistemas de monitoramento (Santos-SP).
 - [Instituto Tecnológico Vale](http://www.itv.org/en/research-line/robotics-applied-to-mining/) - Desenvolve soluções de robótica diversas (veículos, manipuladores, sistemas de realidade aumentada e mapeamento) para a indústria de mineração (Ouro Preto-MG).
-- [SENAI CIMATEC](http://www.senaicimatec.com.br/areas-de-interesse/robotica-e-supercomputacao/) - Através do [Brazilian Institute of Robotica (BIR)](https://github.com/Brazilian-Institute-of-Robotics), desenvolve projetos de P&D para a indústria de petróleo & gás e mineração (Salvador-BA).
+- [SENAI CIMATEC](http://www.senaicimatec.com.br/areas-de-interesse/robotica-e-supercomputacao/) - Através do [Brazilian Institute of Robotics (BIR)](https://github.com/Brazilian-Institute-of-Robotics), desenvolve projetos de P&D para a indústria de petróleo & gás e mineração (Salvador-BA).
 
 ## Laboratórios e Centros de Pesquisa
 
