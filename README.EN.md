@@ -30,6 +30,7 @@ List of robotics initiatives in Brazil! Feel free to [contribute](CONTRIBUTING.m
 - [NTU](https://ntu.ai/) - (São Paulo-SP).
 - [Pluginbot](https://pluginbot.ai/) - (São Paulo-SP).
 - [Pollux](https://www.pollux.com.br/) - (Joinville-SC / Americana-SP).
+- [Speedbird](https://speedbird.aero/) - Drone delivery (Franca-SP).
 - [Synkar Autonomous](https://www.synkar.com/) - (Ribeirão Preto-SP).
 - [Tidewise](https://www.tidewise.io/) -  (Rio de Janeiro-RJ).
 - [Umbô](https://www.umbo.net.br/) - (São Paulo-SP).
@@ -39,8 +40,8 @@ List of robotics initiatives in Brazil! Feel free to [contribute](CONTRIBUTING.m
 ## R&D Institutions
 
 - [INESC P&D Brasil](http://inescbrasil.org.br/) - (Santos-SP).
-- [Instituto Tecnológico Vale](http://www.itv.org/en/research-line/robotics-applied-to-mining/) - (Ouro Preto-MG).
-- [SENAI CIMATEC](http://www.senaicimatec.com.br/areas-de-interesse/robotica-e-supercomputacao/) - (Salvador-BA).
+- [Instituto Tecnológico Vale](http://www.itv.org/en/research-line/robotics-applied-to-mining/) - (Ouro Preto-MG). [:octocat:](https://github.com/itvroc/)
+- [SENAI CIMATEC](http://www.senaicimatec.com.br/areas-de-interesse/robotica-e-supercomputacao/) - (Salvador-BA). [:octocat:](https://github.com/Brazilian-Institute-of-Robotics)
 
 ## Research Centers and Laboratories
 
@@ -64,15 +65,15 @@ List of robotics initiatives in Brazil! Feel free to [contribute](CONTRIBUTING.m
 - [GRACO - Grupo de Automação e Controle (UnB)](http://www.graco.unb.br/)
 - [IDR Lab - Laboratório de Robótica Industrial e de Defesa (IME)](http://labmec.imejunior.com.br/)
 - [LABSCA - Laboratório de Sistemas Computacionais Autônomos (ITA)](http://www.comp.ita.br/labsca/)
-- [LaR - Laboratório de Robótica (UFBA)](http://www.dee.eng.ufba.br/lar/)
+- [LaR - Laboratório de Robótica (UFBA)](http://www.dee.eng.ufba.br/lar/) [:octocat:](https://github.com/lar-deeufba)
 - [LAR - Laboratório de Robótica Aplicada Raul Guenther (UFSC)](https://robotica.ufsc.br/)
 - [LASER - Laboratório de Engenharia de Sistemas e Robótica (UFPB)](http://laser.ci.ufpb.br/)
 - [MACRO - Mechatronics, Control, and Robotics (UFMG)](http://macro.ppgee.ufmg.br/)
-  - [CORO - Laboratório de Sistemas de Computação e Robótica](http://coro.cpdee.ufmg.br/)
+  - [CORO - Laboratório de Sistemas de Computação e Robótica](http://coro.cpdee.ufmg.br/) [:octocat:](https://bitbucket.org/coroufmg)
 - [NAUTEC - Grupo de Automação e Robótica Inteligente (FURG)](https://nautec.furg.br/)
 - [PhiRobotics - Grupo de Pesquisa em Robótica Móvel e Visão Computacional (UFRGS)](https://www.inf.ufrgs.br/phi-group/site/)
 - [RoboFEI (FEI)](https://portal.fei.edu.br/robo-fei)
-- [VeRLab - Laboratório de Visão Computacional e Robótica (UFMG)](https://www.verlab.dcc.ufmg.br/)
+- [VeRLab - Laboratório de Visão Computacional e Robótica (UFMG)](https://www.verlab.dcc.ufmg.br/) [:octocat:](https://github.com/verlab)
 
 ## Competitions and Events
 
