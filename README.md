@@ -32,6 +32,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [NTU](https://ntu.ai/) - Desenvolve soluções de simulação em nuvem e aplicações robóticas para interação social, transporte autônomo indoor e automação de atividades de manufatura leve (São Paulo-SP).
 - [Pluginbot](https://pluginbot.ai/) - Oferecem soluções com robôs de atendimento, delivery, dentre outras aplicações de interação homem-robô (São Paulo-SP).
 - [Pollux](https://www.pollux.com.br/) - Desenvolve "soluções de manufatura avançada, robótica colaborativa, robótica móvel, sistemas de visão e internet industrial" (Joinville-SC / Americana-SP).
+- [Speedbird](https://speedbird.aero/) - Oferecem logística de transporte aéreo e entregas por drones (Franca-SP).
 - [Synkar Autonomous](https://www.synkar.com/) - Solução de delivery robotizado com o robô terrestre Synkar (Ribeirão Preto-SP).
 - [Tidewise](https://www.tidewise.io/) - Desenvolve soluções para operações offshore com embarcação e aeronave não tripuladas (Rio de Janeiro-RJ).
 - [Umbô](https://www.umbo.net.br/) - Oferecem os robôs de interação humana Umbô e Dubô (São Paulo-SP).
@@ -41,8 +42,8 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 ## Institutos de Pesquisa e Desenvolvimento
 
 - [INESC P&D Brasil](http://inescbrasil.org.br/) - Desenvolve projetos nas áreas de tecnologias assistivas, serviços, veículos autônomos, inspeção, segurança e sistemas de monitoramento (Santos-SP).
-- [Instituto Tecnológico Vale](http://www.itv.org/en/research-line/robotics-applied-to-mining/) - Desenvolve soluções de robótica diversas (veículos, manipuladores, sistemas de realidade aumentada e mapeamento) para a indústria de mineração (Ouro Preto-MG).
-- [SENAI CIMATEC](http://www.senaicimatec.com.br/areas-de-interesse/robotica-e-supercomputacao/) - Através do [Brazilian Institute of Robotics (BIR)](https://github.com/Brazilian-Institute-of-Robotics), desenvolve projetos de P&D para a indústria de petróleo & gás e mineração (Salvador-BA).
+- [Instituto Tecnológico Vale](http://www.itv.org/en/research-line/robotics-applied-to-mining/) - Desenvolve soluções de robótica diversas (veículos, manipuladores, sistemas de realidade aumentada e mapeamento) para a indústria de mineração (Ouro Preto-MG). [:octocat:](https://github.com/itvroc/)
+- [SENAI CIMATEC](http://www.senaicimatec.com.br/areas-de-interesse/robotica-e-supercomputacao/) - Através do Brazilian Institute of Robotics (BIR), desenvolve projetos de P&D para a indústria de petróleo & gás e mineração (Salvador-BA). [:octocat:](https://github.com/Brazilian-Institute-of-Robotics)
 
 ## Laboratórios e Centros de Pesquisa
 
@@ -66,15 +67,15 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [GRACO - Grupo de Automação e Controle (UnB)](http://www.graco.unb.br/)
 - [IDR Lab - Laboratório de Robótica Industrial e de Defesa (IME)](http://labmec.imejunior.com.br/)
 - [LABSCA - Laboratório de Sistemas Computacionais Autônomos (ITA)](http://www.comp.ita.br/labsca/)
-- [LaR - Laboratório de Robótica (UFBA)](http://www.dee.eng.ufba.br/lar/)
+- [LaR - Laboratório de Robótica (UFBA)](http://www.dee.eng.ufba.br/lar/) - [:octocat:](https://github.com/lar-deeufba)
 - [LAR - Laboratório de Robótica Aplicada Raul Guenther (UFSC)](https://robotica.ufsc.br/)
 - [LASER - Laboratório de Engenharia de Sistemas e Robótica (UFPB)](http://laser.ci.ufpb.br/)
 - [MACRO - Mechatronics, Control, and Robotics (UFMG)](http://macro.ppgee.ufmg.br/)
-  - [CORO - Laboratório de Sistemas de Computação e Robótica](http://coro.cpdee.ufmg.br/)
+  - [CORO - Laboratório de Sistemas de Computação e Robótica](http://coro.cpdee.ufmg.br/) - [:octocat:](https://bitbucket.org/coroufmg)
 - [NAUTEC - Grupo de Automação e Robótica Inteligente (FURG)](https://nautec.furg.br/)
 - [PhiRobotics - Grupo de Pesquisa em Robótica Móvel e Visão Computacional (UFRGS)](https://www.inf.ufrgs.br/phi-group/site/)
 - [RoboFEI (FEI)](https://portal.fei.edu.br/robo-fei)
-- [VeRLab - Laboratório de Visão Computacional e Robótica (UFMG)](https://www.verlab.dcc.ufmg.br/)
+- [VeRLab - Laboratório de Visão Computacional e Robótica (UFMG)](https://www.verlab.dcc.ufmg.br/) - [:octocat:](https://github.com/verlab)
 
 ## Competições e Eventos
 
