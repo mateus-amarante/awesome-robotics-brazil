@@ -65,7 +65,7 @@ List of robotics initiatives in Brazil! Feel free to [contribute](CONTRIBUTING.m
 - [GRACO - Grupo de Automação e Controle (UnB)](http://www.graco.unb.br/)
 - [IDR Lab - Laboratório de Robótica Industrial e de Defesa (IME)](http://labmec.imejunior.com.br/)
 - [LABSCA - Laboratório de Sistemas Computacionais Autônomos (ITA)](http://www.comp.ita.br/labsca/)
-- [LaR - Laboratório de Robótica (UFBA) ](http://www.dee.eng.ufba.br/lar/) - [:octocat:](https://github.com/lar-deeufba)
+- [LaR - Laboratório de Robótica (UFBA)](http://www.dee.eng.ufba.br/lar/) - [:octocat:](https://github.com/lar-deeufba)
 - [LAR - Laboratório de Robótica Aplicada Raul Guenther (UFSC)](https://robotica.ufsc.br/)
 - [LASER - Laboratório de Engenharia de Sistemas e Robótica (UFPB)](http://laser.ci.ufpb.br/)
 - [MACRO - Mechatronics, Control, and Robotics (UFMG)](http://macro.ppgee.ufmg.br/)
