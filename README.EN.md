@@ -73,7 +73,7 @@ List of robotics initiatives in Brazil! Feel free to [contribute](CONTRIBUTING.m
 - [NAUTEC - Grupo de Automação e Robótica Inteligente (FURG)](https://nautec.furg.br/)
 - [PhiRobotics - Grupo de Pesquisa em Robótica Móvel e Visão Computacional (UFRGS)](https://www.inf.ufrgs.br/phi-group/site/)
 - [RoboFEI (FEI)](https://portal.fei.edu.br/robo-fei)
-- [VeRLab](https://www.verlab.dcc.ufmg.br/) - Laboratório de Visão Computacional e Robótica (UFMG) [:octocat:](https://github.com/verlab)
+- [VeRLab - Laboratório de Visão Computacional e Robótica (UFMG)](https://www.verlab.dcc.ufmg.br/) - [:octocat:](https://github.com/verlab)
 
 ## Competitions and Events
 
