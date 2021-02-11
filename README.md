@@ -67,15 +67,15 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [GRACO - Grupo de Automação e Controle (UnB)](http://www.graco.unb.br/)
 - [IDR Lab - Laboratório de Robótica Industrial e de Defesa (IME)](http://labmec.imejunior.com.br/)
 - [LABSCA - Laboratório de Sistemas Computacionais Autônomos (ITA)](http://www.comp.ita.br/labsca/)
-- [LaR - Laboratório de Robótica (UFBA)](http://www.dee.eng.ufba.br/lar/). [:octocat:](https://github.com/lar-deeufba)
+- [LaR](http://www.dee.eng.ufba.br/lar/) - Laboratório de Robótica (UFBA) [:octocat:](https://github.com/lar-deeufba)
 - [LAR - Laboratório de Robótica Aplicada Raul Guenther (UFSC)](https://robotica.ufsc.br/)
 - [LASER - Laboratório de Engenharia de Sistemas e Robótica (UFPB)](http://laser.ci.ufpb.br/)
 - [MACRO - Mechatronics, Control, and Robotics (UFMG)](http://macro.ppgee.ufmg.br/)
-  - [CORO - Laboratório de Sistemas de Computação e Robótica](http://coro.cpdee.ufmg.br/). [:octocat:](https://bitbucket.org/coroufmg)
+  - [CORO](http://coro.cpdee.ufmg.br/) - Laboratório de Sistemas de Computação e Robótica [:octocat:](https://bitbucket.org/coroufmg)
 - [NAUTEC - Grupo de Automação e Robótica Inteligente (FURG)](https://nautec.furg.br/)
 - [PhiRobotics - Grupo de Pesquisa em Robótica Móvel e Visão Computacional (UFRGS)](https://www.inf.ufrgs.br/phi-group/site/)
 - [RoboFEI (FEI)](https://portal.fei.edu.br/robo-fei)
-- [VeRLab - Laboratório de Visão Computacional e Robótica (UFMG)](https://www.verlab.dcc.ufmg.br/). [:octocat:](https://github.com/verlab)
+- [VeRLab](https://www.verlab.dcc.ufmg.br/) - Laboratório de Visão Computacional e Robótica (UFMG) [:octocat:](https://github.com/verlab)
 
 ## Competições e Eventos
 
