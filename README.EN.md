@@ -69,7 +69,7 @@ List of robotics initiatives in Brazil! Feel free to [contribute](CONTRIBUTING.m
 - [LAR - Laboratório de Robótica Aplicada Raul Guenther (UFSC)](https://robotica.ufsc.br/)
 - [LASER - Laboratório de Engenharia de Sistemas e Robótica (UFPB)](http://laser.ci.ufpb.br/)
 - [MACRO - Mechatronics, Control, and Robotics (UFMG)](http://macro.ppgee.ufmg.br/)
-  - [CORO](http://coro.cpdee.ufmg.br/) - Laboratório de Sistemas de Computação e Robótica [:octocat:](https://bitbucket.org/coroufmg)
+  - [CORO - Laboratório de Sistemas de Computação e Robótica](http://coro.cpdee.ufmg.br/) - [:octocat:](https://bitbucket.org/coroufmg)
 - [NAUTEC - Grupo de Automação e Robótica Inteligente (FURG)](https://nautec.furg.br/)
 - [PhiRobotics - Grupo de Pesquisa em Robótica Móvel e Visão Computacional (UFRGS)](https://www.inf.ufrgs.br/phi-group/site/)
 - [RoboFEI (FEI)](https://portal.fei.edu.br/robo-fei)
