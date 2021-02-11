@@ -43,7 +43,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 
 - [INESC P&D Brasil](http://inescbrasil.org.br/) - Desenvolve projetos nas áreas de tecnologias assistivas, serviços, veículos autônomos, inspeção, segurança e sistemas de monitoramento (Santos-SP).
 - [Instituto Tecnológico Vale](http://www.itv.org/en/research-line/robotics-applied-to-mining/) - Desenvolve soluções de robótica diversas (veículos, manipuladores, sistemas de realidade aumentada e mapeamento) para a indústria de mineração (Ouro Preto-MG). [:octocat:](https://github.com/itvroc/)
-- [SENAI CIMATEC](http://www.senaicimatec.com.br/areas-de-interesse/robotica-e-supercomputacao/) - Através do [Brazilian Institute of Robotics (BIR)](https://github.com/Brazilian-Institute-of-Robotics), desenvolve projetos de P&D para a indústria de petróleo & gás e mineração (Salvador-BA). [:octocat:](https://github.com/Brazilian-Institute-of-Robotics)
+- [SENAI CIMATEC](http://www.senaicimatec.com.br/areas-de-interesse/robotica-e-supercomputacao/) - Através do Brazilian Institute of Robotics (BIR), desenvolve projetos de P&D para a indústria de petróleo & gás e mineração (Salvador-BA). [:octocat:](https://github.com/Brazilian-Institute-of-Robotics)
 
 ## Laboratórios e Centros de Pesquisa
 
