@@ -23,7 +23,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [ARMTEC Tecnologia em Robótica](http://www.armtecbrasil.com/) - Desenvolvem projetos de P&D em robótica nas áreas de defesa e segurança pública, pavimentação, dentre outros (Fortaleza-CE).
 - [Automni](https://automni.com.br/) - Solução de logística robotizada com o robô Rhino para controle de estoque, transporte e picking colaborativo (São Paulo-SP).
 - [Brisa](https://www.brisa.tech/) - Oferecem os WindroseOs Kits: "primeira ferramenta multifuncional para automatizar veículos e aumentar a produtividade dos processos existentes" (Recife-PE / Florianópolis-SC).
-- [Daedlaus Labs](https://www.daedalus-tech.com/) - Oferecem soluções diversas de robótica, visão computacional e aprendizado de máquina (Bauru-SP).
+- [Daedalus Labs](https://www.daedalus-tech.com/) - Oferecem soluções diversas de robótica, visão computacional e aprendizado de máquina (Bauru-SP).
 - [dotBot Robotics](https://www.dotbot-robotics.com/) - Oferecem diversos robôs industriais como serviço e prestam serviço de projeto, simulação e fabricação para robótica. (Rio de Janeiro-RJ).
 - [Hexagon Mining](https://hexagonmining.com/) - Desenvolvem soluções de robótica p/ a indústria de mineração (Belho Horizonte-MG).
 - [Human Robotics](https://www.humanrobotics.ai/) - Oferecem o ROBIOS, "um robô (físico) de autoatendimento, social e personalizável, que ajuda empresas a automatizar o atendimento presencial dos seus clientes" (Curitiba-PR).
@@ -66,6 +66,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [GPRUFS - Grupo de Pesquisa em Robótica da UFS (UFS)](http://www.gprufs.org/) - [:octocat:](https://github.com/GPRUFS)
 - [GRACO - Grupo de Automação e Controle (UnB)](http://www.graco.unb.br/)
 - [IDR Lab - Laboratório de Robótica Industrial e de Defesa (IME)](http://labmec.imejunior.com.br/)
+- [Lab Control (UTFPR)](http://anvargas.com/dokuwiki/doku.php) - [:octocat:](https://github.com/labcontrol-data)
 - [LABSCA - Laboratório de Sistemas Computacionais Autônomos (ITA)](http://www.comp.ita.br/labsca/)
 - [LaR - Laboratório de Robótica (UFBA)](http://www.dee.eng.ufba.br/lar/) - [:octocat:](https://github.com/lar-deeufba)
 - [LAR - Laboratório de Robótica Aplicada Raul Guenther (UFSC)](https://robotica.ufsc.br/)
