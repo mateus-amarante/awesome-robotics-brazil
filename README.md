@@ -20,6 +20,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [13Robotics](http://www.13robotics.com/) - Desenvolvem projetos de P&D de robótica voltados ao setor de energia (Rio de Janeiro-RJ / Salvador-BA). [:octocat:](https://github.com/ThirteenLtda)
 - [Acta Robotics](http://actarobotics.com/) - Oferecem o Kappabot, "o primeiro robô móvel autônomo do tipo AMR com tecnologia brasileira produzido no Brasil" (Manaus-AM).
 - [Adroit Robotics](http://adroitrobotics.com/) - Oferecem solução de monitoramento da produtividade e saúde do pomar com o sensor LeafSense (São Paulo-SP).
+- [AI ROBOTS](https://www.airobots.com.br/) - Oferecem plataforma para robôs que utiliza inteligência artificial para otimização de processos e manutenção preditiva e prescritiva (Belo Horizonte-MG).
 - [ARMTEC Tecnologia em Robótica](http://www.armtecbrasil.com/) - Desenvolvem projetos de P&D em robótica nas áreas de defesa e segurança pública, pavimentação, dentre outros (Fortaleza-CE).
 - [Automni](https://automni.com.br/) - Solução de logística robotizada com o robô Rhino para controle de estoque, transporte e picking colaborativo (São Paulo-SP).
 - [Brisa](https://www.brisa.tech/) - Oferecem os WindroseOs Kits: "primeira ferramenta multifuncional para automatizar veículos e aumentar a produtividade dos processos existentes" (Recife-PE / Florianópolis-SC).
