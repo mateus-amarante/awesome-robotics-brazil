@@ -69,6 +69,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [IDR Lab - Laboratório de Robótica Industrial e de Defesa (IME)](http://labmec.imejunior.com.br/)
 - [Lab Control (UTFPR)](http://anvargas.com/dokuwiki/doku.php) - [:octocat:](https://github.com/labcontrol-data)
 - [LABSCA - Laboratório de Sistemas Computacionais Autônomos (ITA)](http://www.comp.ita.br/labsca/)
+- [LAR - Laboratório de Automação e Robótica (UFU)](http://www.mecanica.ufu.br/laboratorio/laboratorio-de-automacao-e-robotica)
 - [LaR - Laboratório de Robótica (UFBA)](http://www.dee.eng.ufba.br/lar/) - [:octocat:](https://github.com/lar-deeufba)
 - [LAR - Laboratório de Robótica Aplicada Raul Guenther (UFSC)](https://robotica.ufsc.br/)
 - [LASER - Laboratório de Engenharia de Sistemas e Robótica (UFPB)](http://laser.ci.ufpb.br/) - [:octocat:](https://github.com/laser-ufpb)
