@@ -22,6 +22,7 @@ List of robotics initiatives in Brazil! Feel free to [contribute](CONTRIBUTING.m
 - [Adroit Robotics](http://adroitrobotics.com/) - (São Paulo-SP).
 - [AI ROBOTS](https://www.airobots.com.br/) - (Belo Horizonte-MG).
 - [ARMTEC Tecnologia em Robótica](http://www.armtecbrasil.com/) - (Fortaleza-CE).
+- [AuRos Robotics](https://aurosrobotics.com.br/) - (Rio Grande-RS).
 - [Automni](https://automni.com.br/) - (São Paulo-SP).
 - [Brisa](https://www.brisa.tech/) - (Recife-PE / Florianópolis-SC).
 - [Daedlaus Labs](https://www.daedalus-tech.com/) - (Bauru-SP).
