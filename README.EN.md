@@ -1,5 +1,7 @@
 # Awesome Robotics Brazil [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
+![custom-logo](logo.png)
+
 ![awesome-lint](https://github.com/mateus-amarante/awesome-robotics-brazil/workflows/awesome-lint/badge.svg)
 
 [:brazil: pt-br](README.PT-BR.md)
