@@ -36,6 +36,9 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [NTU](https://ntu.ai/) - Desenvolve soluções de simulação em nuvem e aplicações robóticas para interação social, transporte autônomo indoor e automação de atividades de manufatura leve (São Paulo-SP).
 - [Pluginbot](https://pluginbot.ai/) - Oferecem soluções com robôs de atendimento, delivery, dentre outras aplicações de interação homem-robô (São Paulo-SP).
 - [Pollux](https://www.pollux.com.br/) - Desenvolve "soluções de manufatura avançada, robótica colaborativa, robótica móvel, sistemas de visão e internet industrial" (Joinville-SC / Americana-SP).
+- [Qiron Robotics](https://qironrobotics.com/) - Oferece o robô Beo para fazer interação com pessoas em eventos - (Santa Maria - RS).
+- [SkyDrones](https://skydrones.com.br/) - Desenvolve o drone de pulverização agrícola Pelicano (Porto Alegre - RS).
+- [Somai EdTech](https://somai.com.br/) - Empresa especializada em integrar novas tecnologias à educação (São Paulo - SP).
 - [Speedbird](https://speedbird.aero/) - Oferecem logística de transporte aéreo e entregas por drones (Franca-SP).
 - [Synkar Autonomous](https://www.synkar.com/) - Solução de delivery robotizado com o robô terrestre Synkar (Ribeirão Preto-SP). [:octocat:](https://github.com/Synkar)
 - [Tidewise](https://www.tidewise.io/) - Desenvolve soluções para operações offshore com embarcação e aeronave não tripuladas (Rio de Janeiro-RJ). [:octocat:](https://github.com/tidewise)
@@ -51,6 +54,8 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 
 ## Laboratórios e Centros de Pesquisa
 
+- [AiR-LAB - Artificial Intelligence & Robotics Laboratory (UFU)](https://airlabufu.wixsite.com/site)
+- [ASCO - Núcleo de Arquitetura de Computadores e Sistemas Operacionais (UNEB)](http://www.acso.uneb.br)
 - [COPPE - Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia (UFRJ)](https://www.coppe.ufrj.br/)
   - [GSCAR - Grupo de Simulação e Controle em Automação e Robótica](http://www.coep.ufrj.br/gscar/sobre.html)
     - [Labcon - Laboratório de Controle em Automação e Robótica](http://www.coep.ufrj.br/labcon)
@@ -65,23 +70,46 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
   - [LSEC - Laboratório de Sistemas Embarcados Críticos](https://www.lsec.icmc.usp.br/) - [:octocat:](https://github.com/LSEC-ICMC)
   - [ManLab - Laboratório de Manipulação Robótica](http://143.107.239.254/mecatronica/index.php/pt/laboratorios/laboratorio-de-manipulacao-robotica)
   - [ReRob - Laboratório de Reabilitação Robótica](http://143.107.239.254/mecatronica/index.php/pt/laboratorios/laboratorio-de-reabilitacao-robotica)
+- [GARRA - Grupo de Automação e Robótica Aplicada (UFSM)](https://www.ufsm.br/grupos/garra/)
 - [GCAR - Grupo de Controle, Automação e Robótica (UFRGS)](https://www.ece.ufrgs.br/)
+- [GEPTA - Laboratório de Robótica e de Serviços (UFPR)](http://gepta.weebly.com/)
 - [GPAR - Grupo de Pesquisa em Automação, Controle e Robótica (UFC)](https://gpar.ufc.br/)
 - [GPRUFS - Grupo de Pesquisa em Robótica da UFS (UFS)](http://www.gprufs.org/) - [:octocat:](https://github.com/GPRUFS)
 - [GRACO - Grupo de Automação e Controle (UnB)](http://www.graco.unb.br/)
+- [GRIn - Grupo de Robótica Inteligente (UFJF)](https://www.ufjf.br/inerge/institucional/laboratorios/grin/)
+- [Grupo de Robótica UFSCar](https://www.robotica.ufscar.br/)
+  - [LARIS - Laboratory of Autonomous Robots and Intelligent Systems](https://www.laris.ufscar.br/pt-br)
+  - [MRL - Mobile Robotics Laboratory](https://www.ufscar-mobile-robotics.com.br/)
 - [IDR Lab - Laboratório de Robótica Industrial e de Defesa (IME)](http://labmec.imejunior.com.br/)
 - [Lab Control (UTFPR)](http://anvargas.com/dokuwiki/doku.php) - [:octocat:](https://github.com/labcontrol-data)
 - [LABSCA - Laboratório de Sistemas Computacionais Autônomos (ITA)](http://www.comp.ita.br/labsca/)
+- [LAICA - Laboratório de Pesquisa em Informática, Comunicação e Automação (IFRN)](http://laica.ifrn.edu.br/)
+- [LAR - Grupo de Automação e Robótica (USP-SP)](http://sites.poli.usp.br/pmr/lar/)
 - [LAR - Laboratório de Automação e Robótica (UFU)](http://www.mecanica.ufu.br/laboratorio/laboratorio-de-automacao-e-robotica)
 - [LaR - Laboratório de Robótica (UFBA)](http://www.dee.eng.ufba.br/lar/) - [:octocat:](https://github.com/lar-deeufba)
 - [LAR - Laboratório de Robótica Aplicada Raul Guenther (UFSC)](https://robotica.ufsc.br/)
+- [LARA - Laboratório de Automação e Robótica (UnB)](http://www.lara.unb.br) - [:octocat:](https://github.com/lara-unb)
+- [LARM - Laboratório de Automação e Robótica Móvel (UFSC)](https://larm.ufsc.br/)
+- [LARS - Laboratório de Robótica e Sistemas Dedicados (UFRN)](https://labs.imd.ufrn.br/labs/nPITI/laboratorios/LARS)
+- [LASER - Laboratório Avançado de Sistemas Embarcados e Robótica (UTFPR)](http://laser.dainf.ct.utfpr.edu.br/)
 - [LASER - Laboratório de Engenharia de Sistemas e Robótica (UFPB)](http://laser.ci.ufpb.br/) - [:octocat:](https://github.com/laser-ufpb)
+- [LCA - Laboratório de Controle Aplicado (IFSP)](https://spo.ifsp.edu.br/lca)
+- [LIRA - Laboratório de Inteligência e Robótica Aplicadas (PUC Rio)](http://www.lira.ele.puc-rio.br)
+- [LRI - Laboratório de Robótica Inteligente (PUC Rio)](http://www.ele.puc-rio.br/posgraduacao/laboratorios/lri/)
+- [LRTA - Laboratório de Robótica e Tecnologia Assistiva](http://www.nta.ufes.br/)
 - [MACRO - Mechatronics, Control, and Robotics (UFMG)](http://macro.ppgee.ufmg.br/)
   - [CORO - Laboratório de Sistemas de Computação e Robótica](http://coro.cpdee.ufmg.br/) - [:octocat:](https://bitbucket.org/coroufmg)
 - [NAUTEC - Grupo de Automação e Robótica Inteligente (FURG)](https://nautec.furg.br/)
+- [Natalnet Labs (UFRN)](http://www.natalnet.br/home/)
+	<!-- - TEAM - Laboratório de Tecnologias Educacionais, Assistivas e Multimídia
+	- LAR - Laboratório de Automação e Robótica
+	- LPR - Laboratório de Robótica Perceptual -->
+- [NERO - Núcleo de Especialização em Robótica (UFV)](https://www.robotica.ufv.br/)
 - [PhiRobotics - Grupo de Pesquisa em Robótica Móvel e Visão Computacional (UFRGS)](https://www.inf.ufrgs.br/phi-group/site/) - [:octocat:](https://github.com/phir2-lab)
 - [RoboFEI (FEI)](https://portal.fei.edu.br/robo-fei) - [:octocat:](https://github.com/RoboFEI)
+- [TAURA – Grupo de Pesquisa em Tecnologia em Automação e Robótica Aplicada (UFSM)](https://www.ufsm.br/pro-reitorias/prpgp/grupo-de-pesquisa/taura-grupo-de-pesquisa-em-tecnologia-em-automacao-e-robotica-aplicada/)
 - [VeRLab - Laboratório de Visão Computacional e Robótica (UFMG)](https://www.verlab.dcc.ufmg.br/) - [:octocat:](https://github.com/verlab)
+- [VRI - Laboratório Visão, Robótica e Imagem (UFPR](https://web.inf.ufpr.br/vri/)
 
 ## Competições e Eventos
 
