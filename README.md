@@ -120,6 +120,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 
 ## Comunidades Online
 
+- [#SomosRobotica - Grupo de e-mails](https://groups.google.com/g/somosrobotica)
 <!-- TODO: confirmar o escopo de comunidade desta iniciativa -->
 <!-- - [Brazilians In Robotics - matrix.org](https://matrix.to/#/#brazilians-in-robotics:matrix.org?via=matrix.org) -->
 - [ROS Brasil - Discord Channel](https://discord.gg/8zQWRW5)
