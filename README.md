@@ -92,7 +92,8 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 
 ## Comunidades Online
 
-- [Brazilians In Robotics - matrix.org](https://matrix.to/#/#brazilians-in-robotics:matrix.org?via=matrix.org)
+<!-- TODO: confirmar o escopo de comunidade desta iniciativa -->
+<!-- - [Brazilians In Robotics - matrix.org](https://matrix.to/#/#brazilians-in-robotics:matrix.org?via=matrix.org) -->
 - [ROS Brasil - Discord Channel](https://discord.gg/8zQWRW5)
 - [ROS Brazil Users Group - ROS Discourse](https://discourse.ros.org/c/local/brazil/40)
 
