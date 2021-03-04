@@ -101,4 +101,5 @@ List of robotics initiatives in Brazil! Feel free to [contribute](CONTRIBUTING.m
 
 - [Especialização em Automação, Controle e Robótica - SENAI CIMATEC](http://www.senaicimatec.com.br/cursos_pos/especializacao-em-automacao-controle-e-robotica/#/)
 - [Especialização em Robótica e Inteligência Artificial - FURG](https://siposg.furg.br/curso/1068)
+- [Especialização em Robótica e Sistemas Autônomos - SENAI CIMATEC](http://www.senaicimatec.com.br/en/cursos_pos/robotica-e-sistemas-autonomos/#/)
 - [Graduação em Engenharia de Robôs - FEI](https://portal.fei.edu.br/curso-de-engenharia-de-robos)
