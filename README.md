@@ -117,7 +117,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 
 ## Comunidades Online
 
-- [#somosrobotics - somosrobotics@gouglegroups.com](https://groups.google.com/g/somosrobotica)
+- [#somosrobotica - somosrobotica@gouglegroups.com](https://groups.google.com/g/somosrobotica)
 - [ROS Brasil - Discord Channel](https://discord.gg/8zQWRW5)
 - [ROS Brazil Users Group - ROS Discourse](https://discourse.ros.org/c/local/brazil/40)
 

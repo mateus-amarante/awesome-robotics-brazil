@@ -117,7 +117,7 @@ List of robotics initiatives in Brazil! Feel free to [contribute](CONTRIBUTING.m
 
 ## Online Communities
 
-- [#somosrobotica - somosrobotics@gouglegroups.com](https://groups.google.com/g/somosrobotica)
+- [#somosrobotica - somosrobotica@gouglegroups.com](https://groups.google.com/g/somosrobotica)
 - [ROS Brasil - Discord Channel](https://discord.gg/UKUfdpku)
 - [ROS Brazil Users Group - ROS Discourse](https://discourse.ros.org/c/local/brazil/40)
 
