@@ -101,13 +101,10 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
   - [CORO - Laboratório de Sistemas de Computação e Robótica](http://coro.cpdee.ufmg.br/) - [:octocat:](https://bitbucket.org/coroufmg)
 - [NAUTEC - Grupo de Automação e Robótica Inteligente (FURG)](https://nautec.furg.br/)
 - [Natalnet Labs (UFRN)](http://www.natalnet.br/home/)
-	<!-- - TEAM - Laboratório de Tecnologias Educacionais, Assistivas e Multimídia
-	- LAR - Laboratório de Automação e Robótica
-	- LPR - Laboratório de Robótica Perceptual -->
 - [NERO - Núcleo de Especialização em Robótica (UFV)](https://www.robotica.ufv.br/)
 - [PhiRobotics - Grupo de Pesquisa em Robótica Móvel e Visão Computacional (UFRGS)](https://www.inf.ufrgs.br/phi-group/site/) - [:octocat:](https://github.com/phir2-lab)
 - [RoboFEI (FEI)](https://portal.fei.edu.br/robo-fei) - [:octocat:](https://github.com/RoboFEI)
-- [TAURA – Grupo de Pesquisa em Tecnologia em Automação e Robótica Aplicada (UFSM)](https://www.ufsm.br/pro-reitorias/prpgp/grupo-de-pesquisa/taura-grupo-de-pesquisa-em-tecnologia-em-automacao-e-robotica-aplicada/)
+- [TAURA - Grupo de Pesquisa em Tecnologia em Automação e Robótica Aplicada (UFSM)](https://www.ufsm.br/pro-reitorias/prpgp/grupo-de-pesquisa/taura-grupo-de-pesquisa-em-tecnologia-em-automacao-e-robotica-aplicada/)
 - [VeRLab - Laboratório de Visão Computacional e Robótica (UFMG)](https://www.verlab.dcc.ufmg.br/) - [:octocat:](https://github.com/verlab)
 - [VRI - Laboratório Visão, Robótica e Imagem (UFPR](https://web.inf.ufpr.br/vri/)
 
@@ -120,13 +117,13 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 
 ## Comunidades Online
 
-- [#SomosRobotica - Grupo de e-mails](https://groups.google.com/g/somosrobotica)
+- [#somosrobotics - somosrobotics@gouglegroups.com](https://groups.google.com/g/somosrobotica)
 - [ROS Brasil - Discord Channel](https://discord.gg/8zQWRW5)
 - [ROS Brazil Users Group - ROS Discourse](https://discourse.ros.org/c/local/brazil/40)
 
 ## Cursos
 
-- [Especialização em Automação, Controle e Robótica - SENAI CIMATEC](http://www.senaicimatec.com.br/cursos_pos/especializacao-em-automacao-controle-e-robotica/#/)
-- [Especialização em Robótica e Inteligência Artificial - FURG](https://siposg.furg.br/curso/1068)
-- [Especialização em Robótica e Sistemas Autônomos - SENAI CIMATEC](http://www.senaicimatec.com.br/en/cursos_pos/robotica-e-sistemas-autonomos/#/)
-- [Graduação em Engenharia de Robôs - FEI](https://portal.fei.edu.br/curso-de-engenharia-de-robos)
+- [Especialização em Automação, Controle e Robótica (SENAI CIMATEC)](http://www.senaicimatec.com.br/cursos_pos/especializacao-em-automacao-controle-e-robotica/#/)
+- [Especialização em Robótica e Inteligência Artificial (FURG)](https://siposg.furg.br/curso/1068)
+- [Especialização em Robótica e Sistemas Autônomos (SENAI CIMATEC)](http://www.senaicimatec.com.br/en/cursos_pos/robotica-e-sistemas-autonomos/#/)
+- [Graduação em Engenharia de Robôs (FEI)](https://portal.fei.edu.br/curso-de-engenharia-de-robos)
