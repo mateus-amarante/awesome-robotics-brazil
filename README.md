@@ -29,6 +29,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [Brisa](https://www.brisa.tech/) - Oferecem os WindroseOs Kits: "primeira ferramenta multifuncional para automatizar veículos e aumentar a produtividade dos processos existentes" (Recife-PE / Florianópolis-SC).
 - [Daedalus Labs](https://www.daedalus-tech.com/) - Oferecem soluções diversas de robótica, visão computacional e aprendizado de máquina (Bauru-SP).
 - [dotBot Robotics](https://www.dotbot-robotics.com/) - Oferecem diversos robôs industriais como serviço e prestam serviço de projeto, simulação e fabricação para robótica. (Rio de Janeiro-RJ).
+- [GIC](https://www.gicbrasil.com/) - Desenvolvem tecnologias para melhorar a gestão no mercado de varejo, incluindo um sistema robótico chamado Mirus que tem como objetivo escanear e identificar os produtos presentes nas prateleiras. (Barueri-SP)
 - [Hexagon Mining](https://hexagonmining.com/) - Desenvolvem soluções de robótica p/ a indústria de mineração (Belho Horizonte-MG).
 - [Human Robotics](https://www.humanrobotics.ai/) - Oferecem o ROBIOS, "um robô (físico) de autoatendimento, social e personalizável, que ajuda empresas a automatizar o atendimento presencial dos seus clientes" (Curitiba-PR).
 - [Instor](https://www.instor.com.br/) - Desenvolve soluções de robótica diversas p/ os setores de petróleo & gás, agricultura e saúde (Porto Alegre-RS).
