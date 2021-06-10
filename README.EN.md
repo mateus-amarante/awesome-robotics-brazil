@@ -29,7 +29,7 @@ List of robotics initiatives in Brazil! Feel free to [contribute](CONTRIBUTING.m
 - [Brisa](https://www.brisa.tech/) - (Recife-PE / Florianópolis-SC).
 - [Daedlaus Labs](https://www.daedalus-tech.com/) - (Bauru-SP).
 - [dotBot Robotics](https://www.dotbot-robotics.com/) - (Rio de Janeiro-RJ).
-- [GIC](https://www.gicbrasil.com/) - (Barueri-SP).
+- [GIC](https://www.gicbrasil.com.br/) - (Barueri-SP).
 - [Hexagon Mining](https://hexagonmining.com/) - (Belho Horizonte-MG).
 - [Human Robotics](https://www.humanrobotics.ai/) - (Curitiba-PR).
 - [Instor](https://www.instor.com.br/) - (Porto Alegre-RS).
