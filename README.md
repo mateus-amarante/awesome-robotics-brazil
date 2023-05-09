@@ -108,6 +108,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [TAURA - Grupo de Pesquisa em Tecnologia em Automação e Robótica Aplicada (UFSM)](https://www.ufsm.br/pro-reitorias/prpgp/grupo-de-pesquisa/taura-grupo-de-pesquisa-em-tecnologia-em-automacao-e-robotica-aplicada/)
 - [VeRLab - Laboratório de Visão Computacional e Robótica (UFMG)](https://www.verlab.dcc.ufmg.br/) - [:octocat:](https://github.com/verlab)
 - [VRI - Laboratório Visão, Robótica e Imagem (UFPR](https://web.inf.ufpr.br/vri/)
+- [IntelAgir Research Group (UTFPR-FB)](https://intelagir-research-group.github.io/)
 
 ## Competições e Eventos
 
