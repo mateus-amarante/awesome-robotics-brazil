@@ -82,6 +82,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
   - [LARIS - Laboratory of Autonomous Robots and Intelligent Systems](https://www.laris.ufscar.br/pt-br)
   - [MRL - Mobile Robotics Laboratory](https://www.ufscar-mobile-robotics.com.br/)
 - [IDR Lab - Laboratório de Robótica Industrial e de Defesa (IME)](http://labmec.imejunior.com.br/)
+- [IntelAgir - Grupo de Pesquisa em Sistemas Inteligentes (UTFPR-FB)](https://intelagir-research-group.github.io/)
 - [Lab Control (UTFPR)](http://anvargas.com/dokuwiki/doku.php) - [:octocat:](https://github.com/labcontrol-data)
 - [LABSCA - Laboratório de Sistemas Computacionais Autônomos (ITA)](http://www.comp.ita.br/labsca/)
 - [LAICA - Laboratório de Pesquisa em Informática, Comunicação e Automação (IFRN)](http://laica.ifrn.edu.br/)
@@ -108,7 +109,6 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [TAURA - Grupo de Pesquisa em Tecnologia em Automação e Robótica Aplicada (UFSM)](https://www.ufsm.br/pro-reitorias/prpgp/grupo-de-pesquisa/taura-grupo-de-pesquisa-em-tecnologia-em-automacao-e-robotica-aplicada/)
 - [VeRLab - Laboratório de Visão Computacional e Robótica (UFMG)](https://www.verlab.dcc.ufmg.br/) - [:octocat:](https://github.com/verlab)
 - [VRI - Laboratório Visão, Robótica e Imagem (UFPR](https://web.inf.ufpr.br/vri/)
-- [IntelAgir - Grupo de Pesquisa em Sistemas Inteligentes (UTFPR-FB)](https://intelagir-research-group.github.io/)
 
 ## Competições e Eventos
 
