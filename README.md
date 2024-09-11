@@ -4,8 +4,6 @@
 
 ![awesome-lint](https://github.com/mateus-amarante/awesome-robotics-brazil/workflows/awesome-lint/badge.svg)
 
-[:uk: en](README.EN.md)
-
 Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CONTRIBUTING.md)!
 
 ## Contents

@@ -11,13 +11,3 @@ jobs:
         run: |
           npx awesome-lint README.md
           npx awesome-lint README.EN.md
-  en-pt-comparison:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-      - name: Compare N of items of the Portuguese and English README files
-        run: test $(grep -Ec '^ *\- \[.+\]\(.+\)' README.md) -eq $(grep -Ec '^ *\- \[.+\]\(.+\)' README.EN.md)
-      - name: Compare octocat links of the Portuguese and English README files
-        run: test $(grep -Eon '\[:octocat:\]\(.+\)$' README.md | tr -d '\n') == $(grep -Eon '\[:octocat:\]\(.+\)$' README.EN.md | tr -d '\n')
