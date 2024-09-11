@@ -21,6 +21,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [Adroit Robotics](http://adroitrobotics.com/) - Oferecem solução de monitoramento da produtividade e saúde do pomar com o sensor LeafSense (São Paulo-SP).
 - [ARMTEC Tecnologia em Robótica](http://www.armtecbrasil.com/) - Desenvolvem projetos de P&D em robótica nas áreas de defesa e segurança pública, pavimentação, dentre outros (Fortaleza-CE).
 - [Automni](https://automni.com.br/) - Solução de logística robotizada com o robô Rhino para controle de estoque, transporte e picking colaborativo (São Paulo-SP).
+- [BRS Robótica Submarina](https://www.linkedin.com/company/brsrobotica/) - soluções de inspeção, monitoramento ambiental e operações offshore com veículos sub-aquáticos não tripulados. (Macaé - RJ).
 - [dtLabs](https://dt-labs.ai/) - Anteriormente chamada Daedalus Labs, oferece soluções diversas de robótica, visão computacional e inteligência artifical (Bauru-SP).
 - [dotBot Robotics](https://www.dotbot-robotics.com/) - Oferecem diversos robôs industriais como serviço e prestam serviço de projeto, simulação e fabricação para robótica. (Rio de Janeiro-RJ).
 - [GIC](https://www.gicbrasil.com/) - Desenvolvem tecnologias para melhorar a gestão no mercado de varejo, incluindo um sistema robótico chamado Mirus que tem como objetivo escanear e identificar os produtos presentes nas prateleiras (Barueri-SP).
