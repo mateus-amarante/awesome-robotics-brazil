@@ -11,3 +11,8 @@ jobs:
         run: |
           npx awesome-lint README.md
           npx awesome-lint README.EN.md
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: gaurav-nelson/github-action-markdown-link-check@v1
