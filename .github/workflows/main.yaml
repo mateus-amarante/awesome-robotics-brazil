@@ -1,4 +1,4 @@
-name: awesome-lint
+name: checks
 on: pull_request
 jobs:
   awesome-lint:
