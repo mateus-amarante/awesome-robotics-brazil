@@ -62,7 +62,6 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [ASCO - Núcleo de Arquitetura de Computadores e Sistemas Operacionais (UNEB)](http://www.acso.uneb.br)
 - [COPPE - Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia (UFRJ)](https://www.coppe.ufrj.br/)
   - [GSCAR - Grupo de Simulação e Controle em Automação e Robótica](http://www.coep.ufrj.br/gscar/sobre.html)
-  - [LabRob - Laboratório de Robótica](http://www.labrob.coppe.ufrj.br/)
 - [CROB - Centro de Robótica da USP-São Carlos](http://www.crob.eesc.usp.br/)
   - [LabRoM - Laboratório de Robótica Móvel](https://crob.eesc.usp.br/pesquisa/laboratorios/labrom/) - [:octocat:](https://github.com/EESC-LabRoM)
   - [LAR - Laboratório de Aprendizado de Robôs](http://lar.icmc.usp.br/) - [:octocat:](https://github.com/LAR-USP)
@@ -85,7 +84,6 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [LABSCA - Laboratório de Sistemas Computacionais Autônomos (ITA)](http://www.comp.ita.br/labsca/)
 - [LAICA - Laboratório de Pesquisa em Informática, Comunicação e Automação (IFRN)](http://laica.ifrn.edu.br/)
 - [LAR - Grupo de Automação e Robótica (USP-SP)](http://sites.poli.usp.br/pmr/lar/)
-- [LAR - Laboratório de Automação e Robótica (UFU)](https://www.femec.ufu.br/unidades/laboratorio/laboratorio-de-automacao-e-robotica)
 - [LaR - Laboratório de Robótica (UFBA)](https://www.eng.ufba.br/laboratorio-de-robotica-lar) - [:octocat:](https://github.com/lar-deeufba)
 - [LAR - Laboratório de Robótica Aplicada Raul Guenther (UFSC)](https://robotica.ufsc.br/)
 - [LARA - Laboratório de Automação e Robótica (UnB)](http://www.lara.unb.br) - [:octocat:](https://github.com/lara-unb)
@@ -108,6 +106,8 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 
 
 <!-- Para referência, seguem grupos removidos por terem links quebrados (reavaliar novos links)  -->
+<!-- - [LabRob - Laboratório de Robótica](http://www.labrob.coppe.ufrj.br/) -->
+<!-- - [LAR - Laboratório de Automação e Robótica (UFU)](https://www.femec.ufu.br/unidades/laboratorio/laboratorio-de-automacao-e-robotica) -->
 <!-- - [ManLab - Laboratório de Manipulação Robótica](http://143.107.239.254/mecatronica/index.php/pt/laboratorios/laboratorio-de-manipulacao-robotica) -->
 <!-- - [MRL - Mobile Robotics Laboratory](https://www.ufscar-mobile-robotics.com.br/) -->
 <!-- - [LARS - Laboratório de Robótica e Sistemas Dedicados (UFRN)](https://labs.imd.ufrn.br/labs/nPITI/laboratorios/LARS) -->

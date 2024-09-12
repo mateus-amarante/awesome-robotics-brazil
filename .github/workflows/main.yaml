@@ -4,17 +4,14 @@ jobs:
   awesome-lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Run awesome-lint on README files
-        run: |
-          npx awesome-lint README.md
-          npx awesome-lint README.EN.md
+      - run: npx awesome-lint
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v4
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
       with:
         config-file: markdown-link-check-config.json
