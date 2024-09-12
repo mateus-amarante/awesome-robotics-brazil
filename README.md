@@ -21,7 +21,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [Adroit Robotics](http://adroitrobotics.com/) - Oferecem solução de monitoramento da produtividade e saúde do pomar com o sensor LeafSense (São Paulo-SP).
 - [ARMTEC Tecnologia em Robótica](http://www.armtecbrasil.com/) - Desenvolvem projetos de P&D em robótica nas áreas de defesa e segurança pública, pavimentação, dentre outros (Fortaleza-CE).
 - [Automni](https://automni.com.br/) - Solução de logística robotizada com o robô Rhino para controle de estoque, transporte e picking colaborativo (São Paulo-SP).
-- [BRS Robótica Submarina](https://www.linkedin.com/company/brsrobotica/) - soluções de inspeção, monitoramento ambiental e operações offshore com veículos sub-aquáticos não tripulados. (Macaé - RJ).
+- [BRS Robótica Submarina](https://www.linkedin.com/company/brsrobotica/) - soluções de inspeção, monitoramento ambiental e operações offshore com veículos sub-aquáticos não tripulados (Macaé - RJ).
 - [dtLabs](https://dt-labs.ai/) - Anteriormente chamada Daedalus Labs, oferece soluções diversas de robótica, visão computacional e inteligência artifical (Bauru-SP).
 - [dotBot Robotics](https://www.dotbot-robotics.com/) - Oferecem diversos robôs industriais como serviço e prestam serviço de projeto, simulação e fabricação para robótica. (Rio de Janeiro-RJ).
 - [GIC](https://www.gicbrasil.com/) - Desenvolvem tecnologias para melhorar a gestão no mercado de varejo, incluindo um sistema robótico chamado Mirus que tem como objetivo escanear e identificar os produtos presentes nas prateleiras (Barueri-SP).
@@ -103,7 +103,6 @@ Lista de iniciativas de robótica do Brasil! Sinta-se livre para [contribuir](CO
 - [NERO - Núcleo de Especialização em Robótica (UFV)](https://www.robotica.ufv.br/)
 - [PhiRobotics - Grupo de Pesquisa em Robótica Móvel e Visão Computacional (UFRGS)](https://www.inf.ufrgs.br/phi-group/site/) - [:octocat:](https://github.com/phir2-lab)
 - [RoboFEI (FEI)](https://portal.fei.edu.br/robo-fei) - [:octocat:](https://github.com/RoboFEI)
-- [TAURA - Grupo de Pesquisa em Tecnologia em Automação e Robótica Aplicada (UFSM)](https://www.ufsm.br/grupos/garra#:~:text=O%20Grupo%20de%20Automa%C3%A7%C3%A3o%20e,internacionais%20de%20rob%C3%B3tica%2C%20e%20a)
 - [VeRLab - Laboratório de Visão Computacional e Robótica (UFMG)](https://www.verlab.dcc.ufmg.br/) - [:octocat:](https://github.com/verlab)
 - [VRI - Laboratório Visão, Robótica e Imagem (UFPR](https://web.inf.ufpr.br/vri/)
 
