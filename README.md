@@ -115,7 +115,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se encorajado a [contribuir](
 
 ## Competições e Eventos
 
-- [Competição Brasileira de Robótica (CBR) / Latin American Robotics Competition (LARC) / RoboCup Open](http://www.cbrobotica.org/)
+- [Competição Brasileira de Robótica (CBR) / Latin American Robotics Competition (LARC) / RoboCup Open](https://cbr.robocup.org.br/)
 - [Mostra Nacional de Robótica (MNR)](http://www.mnr.org.br/)
 - [Olimpíada Brasileira de Robótica (OBR)](http://www.obr.org.br/)
 - [Torneio Brasil de Robótica (TBR)](https://www.torneiobrasilderobotica.com.br/)
