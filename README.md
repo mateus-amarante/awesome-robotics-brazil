@@ -88,7 +88,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se encorajado a [contribuir](
 - [LAR - Laboratório de Robótica Aplicada Raul Guenther (UFSC)](https://robotica.ufsc.br/)
 - [LARA - Laboratório de Automação e Robótica (UnB)](http://www.lara.unb.br) - [:octocat:](https://github.com/lara-unb)
 - [LARM - Laboratório de Automação e Robótica Móvel (UFSC)](https://larm.ufsc.br/)
-- [LASER - Laboratório Avançado de Sistemas Embarcados e Robótica (UTFPR)](http://laser.dainf.ct.utfpr.edu.br/)
+- [LASER - Laboratório Avançado de Sistemas Embarcados e Robótica (UTFPR)](https://laser.dainf.ct.utfpr.edu.br/)
 - [LASER - Laboratório de Engenharia de Sistemas e Robótica (UFPB)](http://laser.ci.ufpb.br/) - [:octocat:](https://github.com/laser-ufpb)
 - [LCA - Laboratório de Controle Aplicado (IFSP)](https://spo.ifsp.edu.br/lca)
 - [LIRA - Laboratório de Inteligência e Robótica Aplicadas (PUC Rio)](http://www.lira.ele.puc-rio.br)
