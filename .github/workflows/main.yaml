@@ -13,9 +13,9 @@ jobs:
       - run: npx awesome-lint
   markdown-link-check:
     runs-on: ubuntu-latest
-    continue-on-error: true
     steps:
     - uses: actions/checkout@v4
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      continue-on-error: true
       with:
         config-file: markdown-link-check-config.json
