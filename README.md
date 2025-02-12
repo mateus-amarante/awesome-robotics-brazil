@@ -55,7 +55,7 @@ Lista de iniciativas de robótica do Brasil! Sinta-se encorajado a [contribuir](
 - [INESC P&D Brasil](http://inescbrasil.org.br/) - Desenvolve projetos nas áreas de tecnologias assistivas, serviços, veículos autônomos, inspeção, segurança e sistemas de monitoramento (Santos-SP).
 - [Instituto Tecnológico Vale](https://www.itv.org/itv-mineracao/grupos-de-pesquisa-e-parcerias/) - Desenvolve soluções de robótica diversas (veículos, manipuladores, sistemas de realidade aumentada e mapeamento) para a indústria de mineração (Ouro Preto-MG). [:octocat:](https://github.com/itvroc/)
 - [SENAI CIMATEC](https://www.senaicimatec.com.br/areas-de-interesse/robotica-e-supercomputacao/) - desenvolve projetos de P&D para a indústria de petróleo & gás e mineração (Salvador-BA). [:octocat:](https://github.com/Brazilian-Institute-of-Robotics)
-- [VIRTUS](https://www.virtus.ufcg.edu.br/en/) - desenvolve projetos de P&D para indústria (Campina Grande - PB)
+  - [VIRTUS](https://www.virtus.ufcg.edu.br/en/) - desenvolve projetos de P&D para indústria (Campina Grande - PB).
 
 ## Laboratórios e Centros de Pesquisa
 
@@ -70,9 +70,9 @@ Lista de iniciativas de robótica do Brasil! Sinta-se encorajado a [contribuir](
   - [LRM - Laboratório de Robótica Móvel](http://lrm.icmc.usp.br/web/index.php?n=Port.Home) - [:octocat:](https://github.com/usp-lrm)
   - [LSEC - Laboratório de Sistemas Embarcados Críticos](https://www.lsec.icmc.usp.br/) - [:octocat:](https://github.com/LSEC-ICMC)
   - [ReRob - Laboratório de Reabilitação Robótica](https://crob.eesc.usp.br/pesquisa/laboratorios/rerob/)
-- [Embedded - Laboratório de Sistemas Embarcados e Computação Pervasiva (UFCG)](https://www.embedded.ufcg.edu.br/) 
-  - [Smart Factory Lab](https://github.com/SmartFactoryLab-UFCG)
-- [eRobotica - Laboratório de Automação e Robótica (UFCG)](https://novo.dee.ufcg.edu.br/laboratorio-de-automacao-e-robotica) - [:octocat:](https://github.com/e-robotica)
+  - [Embedded - Laboratório de Sistemas Embarcados e Computação Pervasiva (UFCG)](https://www.embedded.ufcg.edu.br/). 
+  - [Smart Factory Lab](https://github.com/SmartFactoryLab-UFCG).
+  - [eRobotica - Laboratório de Automação e Robótica (UFCG)](https://novo.dee.ufcg.edu.br/laboratorio-de-automacao-e-robotica) - [:octocat:](https://github.com/e-robotica).
 - [GARRA - Grupo de Automação e Robótica Aplicada (UFSM)](https://www.ufsm.br/grupos/garra/)
 - [GCAR - Grupo de Controle, Automação e Robótica (UFRGS)](https://www.ece.ufrgs.br/)
 - [GEPTA - Laboratório de Robótica e de Serviços (UFPR)](http://gepta.weebly.com/)
