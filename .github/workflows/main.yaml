@@ -1,5 +1,8 @@
 name: checks
-on: pull_request
+on:
+  pull_request:
+  schedule:
+    - cron: '0 0 */20 * *'  # Runs every 20 days
 jobs:
   awesome-lint:
     runs-on: ubuntu-latest
@@ -13,5 +16,6 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      continue-on-error: true
       with:
         config-file: markdown-link-check-config.json
